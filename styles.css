@@ -1,0 +1,71 @@
+body {
+    background-image: url(./background.jpg);
+}
+.details {
+    text-align: right;
+}
+ul {
+    background-image: url(./download.jpg);
+    height: 370;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.P {
+    
+    white-space: pre-line;
+    white-space: pre-line;
+    white-space: pre-line;
+    white-space: pre-line;
+    white-space: pre-line;
+    
+} 
+.one-line {
+    white-space: pre-line;
+}
+.yellow-mode {
+    background-image: url(./yellow.png);
+    color: purple;
+}
+
+.purple-mode {
+    background-image: url(./purple.png);
+    color: yellowgreen;
+}
+.light-mode {
+    background-image: url(./light.png);
+    color: black;
+    }
+
+.dark-mode {
+    background-image: url(./black.png);
+   color: white;
+    }
+.red-mode {
+    background-image: url(./red.png);
+    color: green;
+}
+table {
+    /* background-image: url(./download.jpg); */
+    height: 370px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.girlsBackground {
+    background-image: url(./backgroundForGirls.jpg);
+}
+.girlsBackground2 {
+    background-image: url(./BackgroundGirls2.jpg);
+    color: yellow;
+}
+.gamingBackground {
+    background-image: url(./Gamingbackground.jpg);
+    color: white;
+}
+
+.gamingBackground2 {
+    background-image: url(./gaming2.jpg);
+    color: white;
+}
