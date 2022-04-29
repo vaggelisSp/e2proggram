@@ -37,5 +37,5 @@ function gaming_mode() {
 }
 function gaming_mode2() {
     var element = document.body;
-    element.classList.toggle("gamingBackground");
+    element.classList.toggle("gamingBackground2");
 }
